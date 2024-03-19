@@ -16,9 +16,6 @@
             android:name=".TutorActivity"
             android:exported="false" />
         <activity
-            android:name=".SummaryActivity"
-            android:exported="false" />
-        <activity
             android:name=".ContentActivity"
             android:exported="false" />
         <activity
